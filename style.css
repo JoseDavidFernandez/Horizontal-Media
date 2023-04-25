@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 20px;
+}
+
+/* --- SCROLLER --- */
+.scroller{
+    max-width: 550px;
+    min-height: 160px;
+    display: grid;
+    grid-auto-flow: column;
+    column-gap: 15px;
+    overflow-x: auto;
+    padding: 10px 0px;
+}
+::-webkit-scrollbar{ height: 5px; }
+::-webkit-scrollbar-track{ background: #dddddd; }
+::-webkit-scrollbar-thumb{ background: #db1d5c;}
+
+/* --- SCROLLER-ITEM ---  */
+.scroller-item{
+    position: relative;
+    width: 150px;
+    height: 150px;
+}
+
+/* --- SCROLLER-ITEM IMG ---  */
+.scroller-item img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    border: 4px solid black;
+    object-fit: contain;
+}
+
