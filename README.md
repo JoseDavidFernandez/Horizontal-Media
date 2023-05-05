@@ -3,8 +3,8 @@ Horizontal Media Scroller es una página web que cuenta con una serie de imágen
 
 - [Sitio Web](https://user-images.githubusercontent.com/107296373/228812275-74c366dd-a54c-46a7-b73d-f7513c931602.png)
 
-## Authors
-[@JoseDavidFernandez](https://github.com/JoseDavidFernandez)
-<!-- ##LOGO -->
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://josedavidfernandezcomino.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedavidfernándezcomino/)
 
-<p align="right"> <img width="100" height="100" src="https://user-images.githubusercontent.com/107296373/224087171-4a4f1718-9c62-44a7-8dc6-c922071c4f4b.png"> </p>
+![Logo](https://user-images.githubusercontent.com/107296373/236514091-5f8a9760-35df-46fb-b922-f046bcbef5af.png)
